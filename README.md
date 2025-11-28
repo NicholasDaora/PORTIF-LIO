@@ -34,4 +34,7 @@ só sei que nada sei
 
 Um pouco da minha identidade digital
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c0b74a55-c980-4ca4-bb1a-b17e6fdd822c" />
+
+
 ...
